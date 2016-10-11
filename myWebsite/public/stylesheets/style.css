@@ -1,8 +1,23 @@
 body {
   padding: 50px;
-  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  font: 25px "Lucida Grande", Helvetica, Arial, sans-serif;
+  color: white;
+  font-weight: 200;
+}
+body {
+  background-color: #000000;
 }
 
 a {
-  color: #00B7FF;
+  color: #FFFFFF;
+}
+
+.padding{
+  padding: 50px;
+}
+
+.center {
+  display: inline-block;
+  vertical-align: middle;
+  float: none;
 }
