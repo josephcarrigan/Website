@@ -1,5 +1,5 @@
 body {
-  padding: 50px;
+  padding: 25px;
   font: 25px "Lucida Grande", Helvetica, Arial, sans-serif;
   color: white;
   font-weight: 200;
@@ -13,7 +13,7 @@ a {
 }
 
 .padding{
-  padding: 50px;
+  padding: 25px;
 }
 
 .center {
