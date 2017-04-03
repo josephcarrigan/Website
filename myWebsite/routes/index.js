@@ -10,4 +10,6 @@ router.get('/HomeEnglish', function(req, res, next) {
   res.render('HomeEnglish', { title: 'Welcome!' });
 });
 
+
+
 module.exports = router;
